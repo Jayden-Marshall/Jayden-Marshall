@@ -7,7 +7,7 @@
   - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitationLab)
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
 - <b>Linux</b>
-  - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills/tree/main) 
+  - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills) 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
