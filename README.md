@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jayden! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity & Cloud Engineering Student</a>, 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Labs & Practice:</h2>
 
 - <b>Networking </b>
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
