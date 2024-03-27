@@ -4,7 +4,7 @@
 
 - <b>Networking </b>
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
-  - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkServicesLab)
+  - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitation)
   - [NetworkServices](https://github.com/Jayden-Marshall/NetworkServices/tree/main)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
