@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networking </b>
-  - [NmapLab]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Jayden-Marshall/NmapLab/edit/main/README.md))
+  - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
