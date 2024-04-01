@@ -22,7 +22,7 @@
 <h2>📜 Certifications:</h2>
 
 - [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
-- [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
+- [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
 
 <h2>📺 Popular YouTube Videos</h2>
 
