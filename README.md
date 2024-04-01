@@ -21,7 +21,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [Google Cybersecurity Professional](https://coursera.org/share/33e8a1903deedeb27b4425fc980df449)
+- [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
 
 <h2>📺 Popular YouTube Videos</h2>
 
