@@ -2,14 +2,11 @@
 
 <h2>👨‍💻 Cybersecurity Projects, Practice, and Labs:</h2>
 
-- <b>Networking </b>
+
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
   - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitationLab)
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
-- <b>Linux</b>
   - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills) 
-
-- <b>Python</b>
 
 <h2>📜 Certifications:</h2>
 
