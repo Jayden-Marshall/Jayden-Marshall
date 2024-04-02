@@ -19,8 +19,6 @@
 - [Mastercard Virtual Internship Program](https://github.com/Jayden-Marshall/Mastercard)
 - [Datacom Virtual Internship Program](https://github.com/Jayden-Marshall/Datacom)
 - [PwC Virtual Internship Program](https://github.com/Jayden-Marshall/PwCSwitzerland)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
