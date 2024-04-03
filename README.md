@@ -8,6 +8,10 @@
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
   - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills) 
 
+<h2> 💻 Other Projects: </h2>
+ 
+  - [$3,000 PC Build!](https://github.com/Jayden-Marshall/NmapLab)
+
 <h2>📜 Certifications:</h2>
 
 - [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
