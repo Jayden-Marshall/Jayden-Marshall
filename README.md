@@ -10,7 +10,7 @@
 
 <h2> 💻 Other Projects: </h2>
  
-  - [$3,000 PC Build!](https://github.com/Jayden-Marshall/NmapLab)
+  - [$3,000 PC Build!](https://github.com/Jayden-Marshall/3KPCBuild)
 
 <h2>📜 Certifications:</h2>
 
