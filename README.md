@@ -6,7 +6,8 @@
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
   - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitationLab)
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
-  - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills) 
+  - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills)
+  - [A Scandal in Valdoira - KC7](https://github.com/Jayden-Marshall/MasteringLinuxSkil) 
 
 <h2> 💻 Other Projects: </h2>
  
