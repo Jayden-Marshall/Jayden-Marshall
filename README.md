@@ -7,7 +7,7 @@
   - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitationLab)
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
   - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills)
-  - [A Scandal in Valdoira - KC7](https://github.com/Jayden-Marshall/MasteringLinuxSkil) 
+  - [A Scandal in Valdoira - KC7](https://github.com/Jayden-Marshall/ValdoiraScandal/blob/main/README.md) 
 
 <h2> 💻 Other Projects: </h2>
  
