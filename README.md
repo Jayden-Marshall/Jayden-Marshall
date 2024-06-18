@@ -20,7 +20,7 @@
 - [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
 - [Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
 
-<h2>👨‍🔧 My Experiences</h2>
+<h2>👨‍🔧 Real-World Experiences</h2>
 
 - [Mastercard Virtual Internship Program](https://github.com/Jayden-Marshall/Mastercard)
 - [Datacom Virtual Internship Program](https://github.com/Jayden-Marshall/Datacom)
