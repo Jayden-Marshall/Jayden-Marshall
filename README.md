@@ -20,6 +20,7 @@
 - [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
 - [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
 - [Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
+- [Sec+/GCSP Dual Credential]()
 
 <h2>👨‍🔧 Real-World Experiences</h2>
 
