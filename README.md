@@ -16,7 +16,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [CompTia Security Plus (+) 601](https://github.com/Jayden-Marshall/CompTiaSecurityPlus)
+- [CompTia Security Plus+](https://github.com/Jayden-Marshall/CompTiaSecurityPlus)
 - [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
 - [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
 - [Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
