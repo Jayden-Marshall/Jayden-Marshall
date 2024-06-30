@@ -16,11 +16,12 @@
 
 <h2>📜 Certifications:</h2>
 
+- [Security+/GCSP Dual Credential](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
 - [CompTia Security Plus+](https://github.com/Jayden-Marshall/SecurityPlus)
 - [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
 - [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
 - [Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
-- [Sec+/GCSP Dual Credential](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
+
 
 <h2>👨‍🔧 Real-World Experiences</h2>
 
