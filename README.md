@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jayden!  <br/> <a href="https://www.linkedin.com/in/jayden-marshall">Software Engineering, Cloud Computing, and Cybersecurity Student</a> 
 
  <sub><sup>aspiring to be well-versed in my three favorite subjects</sup></sub> 
-<h2>👨‍💻 Cybersecurity, Software Engineering Practice and Labs:</h2>
+<h2>👨‍💻 SWE, Cloud Computing, and CyberSec Practice and Labs:</h2>
 
 
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
