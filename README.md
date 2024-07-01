@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jayden! <br/> <a href="https://www.linkedin.com/in/jayden-marshall">Cybersecurity & Programming Student</a>, 
 
-<h2>👨‍💻 Cybersecurity Projects, Practice, and Labs:</h2>
+<h2>👨‍💻 Cybersecurity Projects, Software Engineering Practice, and Labs:</h2>
 
 
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
