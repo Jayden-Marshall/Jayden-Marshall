@@ -14,6 +14,7 @@
  
   - [$3,000 PC Build!](https://github.com/Jayden-Marshall/3KPCBuild)
   - [$2,000 PC Build!](https://github.com/Jayden-Marshall/-2kPC)
+  - [Oracle VM Virtual Box Lab](https://github.com/Jayden-Marshall/3KPCBuild)
 
 <h2>📜 Certifications:</h2>
 
