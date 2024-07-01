@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jayden! <br/> <a href="https://www.linkedin.com/in/jayden-marshall">Cybersecurity & Programming Student</a>, 
+<h1>Hi, I'm Jayden! <br/> <a href="https://www.linkedin.com/in/jayden-marshall">Cybersecurity, Software Engineering, and Programming Student</a>, 
 
 <h2>👨‍💻 Cybersecurity, Software Engineering Practice and Labs:</h2>
 
