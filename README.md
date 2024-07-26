@@ -16,7 +16,7 @@
   - [$3,000 PC Build!](https://github.com/Jayden-Marshall/3KPCBuild)
   - [$2,000 PC Build!](https://github.com/Jayden-Marshall/-2kPC)
   - [Oracle VM Virtual Box Labs](https://github.com/Jayden-Marshall/IT-LabSeries)
-  - [IT Support](https://github.com/Jayden-Marshall/IT-LabSeries)
+  - [IT Support Lab Series](https://github.com/Jayden-Marshall/IT-LabSeries)
   - [Helpdesk Real-Life Tickets](https://github.com/Jayden-Marshall/Tickets)
 
 <h2>📜 Certifications:</h2>
