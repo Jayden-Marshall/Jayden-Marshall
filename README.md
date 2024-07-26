@@ -8,7 +8,8 @@
   - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitationLab)
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
   - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills)
-  - [A Scandal In Valdoria - KC7](https://github.com/Jayden-Marshall/ValdoriaScandal) 
+  - [A Scandal In Valdoria - KC7](https://github.com/Jayden-Marshall/ValdoriaScandal)
+  - [Bash Training by @madegps | @joshduffney | @microsoftdeveloper](https://github.com/Jayden-Marshall/ValdoriaScandal) 
 
 <h2> 💻 Other Projects: </h2>
  
