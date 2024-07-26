@@ -9,7 +9,7 @@
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
   - [MasteringLinux](https://github.com/Jayden-Marshall/MasteringLinuxSkills)
   - [A Scandal In Valdoria - KC7](https://github.com/Jayden-Marshall/ValdoriaScandal)
-  - [Bash Training by @madegps | @joshduffney | @microsoftdeveloper](https://github.com/Jayden-Marshall/ValdoriaScandal) 
+  - [Bash Training by @madegps | @joshduffney | @microsoftdeveloper](https://github.com/microsoft/bash-for-beginners) 
 
 <h2> 💻 Other Projects: </h2>
  
