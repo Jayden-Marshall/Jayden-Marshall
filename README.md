@@ -20,7 +20,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [Security+/GCSP Dual Credential](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
+- [Security+/Google Cybersecurity Professional Dual Credential](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
 - [CompTIA Security Plus+](https://github.com/Jayden-Marshall/SecurityPlus)
 - [Google Cybersecurity Professional](https://github.com/Jayden-Marshall/GoogleCyberSecurityProfessional)
 - [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
