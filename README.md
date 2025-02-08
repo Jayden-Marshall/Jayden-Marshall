@@ -21,8 +21,9 @@
 <h2>📜 Certifications:</h2>
 
 - [🛡️ Google Cybersecurity & CompTIA Security+ Dual Certification](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
-- [Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
-- [Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
+- [🛡️ Google Cybersecurity & CompTIA Security+ Dual Certification](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
+- [🔍🛡️ Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
+- [🖥️⚠️ Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
 
 
 <h2>👨‍🔧 Real-World Experiences</h2>
