@@ -20,8 +20,12 @@
 
 <h2>📜 Certifications:</h2>
 
-- [🛡️ Google Cybersecurity & CompTIA Security+ Dual Certification](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
+- [🛡️ CompTIA Security+ & Google Cybersecurity Professional Dual Certification](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
 - [🌐 CompTIA Network+ ce Certification](https://github.com/Jayden-Marshall/NetworkPlus/blob/main/README.md)
+- [💻 CompTIA A+ ce Certification](https://github.com/Jayden-Marshall/APlus/blob/main/README.md)
+- [☁️ AWS Certified Cloud Practitioner (CCP)](https://github.com/Jayden-Marshall/AWSCCP/blob/main/README.md)
+- [🐧 Linux Essentials Certificate](https://github.com/Jayden-Marshall/LPILE/blob/main/README.md)
+- [🔄 ITIL v4 Foundation Certification](https://github.com/Jayden-Marshall/ITILv4/blob/main/README.md)
 - [🔍🛡️ Qualys Vulnerability Management](https://github.com/Jayden-Marshall/QualysVunerabilityManagement)
 - [🖥️⚠️ Qualys Endpoint Detection & Response](https://github.com/Jayden-Marshall/QualysEndpointDetectionResponse)
 
