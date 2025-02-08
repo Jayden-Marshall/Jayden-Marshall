@@ -13,7 +13,6 @@
 
 <h2> 💻 Other Projects: </h2>
  
-  - [CS204: Database Programming | StudyDotCom](https://github.com)
   - [$3,000 PC Build!](https://github.com/Jayden-Marshall/3KPCBuild)
   - [$2,000 PC Build!](https://github.com/Jayden-Marshall/-2kPC)
   - [Oracle VM Virtual Box Labs](https://github.com/Jayden-Marshall/IT-LabSeries)
