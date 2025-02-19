@@ -4,7 +4,7 @@
 <h2>👨‍💻 SWE, Cloud Computing, and CyberSec Practice and Labs:</h2>
 
 
-  -[Infrastrucutre as Code Deploment](https://github.com/Jayden-Marshall/aws-iac-terraform)
+  - [Infrastrucutre as Code Deploment](https://github.com/Jayden-Marshall/aws-iac-terraform)
   - [NmapLab](https://github.com/Jayden-Marshall/NmapLab)
   - [NetworkExploitation](https://github.com/Jayden-Marshall/NetworkExploitationLab)
   - [NetworkServices&Vulnerability](https://github.com/Jayden-Marshall/NetworkServicesVulnerability)
