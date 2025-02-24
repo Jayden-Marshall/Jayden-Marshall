@@ -21,6 +21,7 @@
 
 <h2>📜 Certifications:</h2>
 
+- [📜 WGU Bachelor of Science in Information Technology](https://github.com/Jayden-Marshall/wgu-degree)
 - [🛡️ CompTIA Security+ & Google Cybersecurity Professional Dual Certification](https://github.com/Jayden-Marshall/Sec-GCSP/blob/main/README.md)
 - [🌐 CompTIA Network+ ce Certification](https://github.com/Jayden-Marshall/NetworkPlus/blob/main/README.md)
 - [💻 CompTIA A+ ce Certification](https://github.com/Jayden-Marshall/APlus/blob/main/README.md)
