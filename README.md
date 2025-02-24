@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jayden!  <br/> <a href="https://www.linkedin.com/in/jayden-m-/">Cloud Engineering, Cybersecurity, and I.T. Student <br>WGU BSIT Graduate</a> 
+<h1>Hi, I'm Jayden!  <br/> <a href="https://www.linkedin.com/in/jayden-m-/">Cloud Computing, Cybersecurity, and I.T. Student <br>WGU BSIT Graduate</a> 
 
  <sub><sup>For some time, I've found it difficult to decide on a career path. I've always been passionate about security and also interested in coding. Then, the cloud technology emerged and ignited my curiosity. That's when I decided to pursue a career in Cloud Security Engineering! Here are some projects/labs I'm working on along the way.☁️ </sup></sub> 
 <h2>👨‍💻 SWE, Cloud Computing, and CyberSec Practice and Labs:</h2>
